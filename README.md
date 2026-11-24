@@ -17,7 +17,7 @@ Some of the functions do not work properly.
 
 **Standalone Application**
 A standalone Windows executable is available for users who want to try the application without running the Python source code.
-Link: 
+Link: https://github.com/hanan2202/Mini-Image-Editor/releases/tag/v1.0.0
 
 How to Run:
 1. Download MiniImageEditor.exe from the latest release.
